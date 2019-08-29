@@ -1,1 +1,2 @@
-
+Had a hiccup when installing postgres...
+Eventually got the assignment finished 16 minutes after class ended
