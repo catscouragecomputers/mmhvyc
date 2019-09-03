@@ -10,7 +10,7 @@ search by image content, article name, date published (date ranges), published b
 
 
 Clarifying Questions
-
+- What are the functional requirements?<br />
 Editors:<br />
 Journalists:<br />
 Photographers:<br />
