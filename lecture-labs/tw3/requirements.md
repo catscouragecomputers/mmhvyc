@@ -13,4 +13,4 @@ Clarifying Questions
 - Photographers have Editor permissions and ability to modify and upload image content, date published, included keywords, image name, image source, file type, file path<br />
 - Editors have Journalist permissions and ability to modify image content, file path<br />
 - Journalists have Reader permissions and ability to view file path to link picture to article<br />
-- Readers can only view image content, parent article name, date published, published by (journalist or photographer name), keywords<br />
+- Readers can only search and view image content, parent article name, date published, published by (journalist or photographer name), keywords<br />
