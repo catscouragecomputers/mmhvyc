@@ -2,7 +2,7 @@ Solicit Requirements
 - Who are the stakeholders?<br />
 photographers, editors, journalists
 - Who are the users?<br />
-photographers, editors, journalists
+photographers, editors, journalists, readers
 - What are the system requirements?<br />
 disk storage, web interface, database
 - What are the functional requirements?<br />
@@ -11,6 +11,7 @@ search by image content, article name, date published (date ranges), published b
 
 Clarifying Questions
 - What are the functional requirements?<br />
-Editors:<br />
-Journalists:<br />
-Photographers:<br />
+Editors: <br />
+Journalists: <br />
+Photographers: <br />
+Readers: <br />
