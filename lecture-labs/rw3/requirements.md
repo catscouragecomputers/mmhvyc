@@ -3,11 +3,12 @@
     - How well collaboration is working on project
     - Health of the project for customers and streamlining business/engineer communication
 
+(Practicality)(Priority)
 ### Requirements
-- Metrics should be tracked with automated updates.
-- Notifications should be relayed to people working on the project.
-- Investors need a UI to visualize data.
-- Developers need access to a database to store metrics data.
+- (1)(2) Metrics should be tracked with automated updates.
+- (1)(1) Notifications should be relayed to people working on the project.
+- ()() Investors need a UI to visualize data.
+- ()() Developers need access to a database to store metrics data.
 - Users:
     - Should be able to implement the API into any part of the system
     - Better visualizations of metrics
@@ -20,7 +21,7 @@
     - Number of people working on branches
     - Tracking code reuse in other projects
     
-# Functional Requirements
+### Functional Requirements
 - ()() Customer can monitor commits/pulls/forks over time, average size of commits, etc
 - ()() Customer can monitor developer interaction (how often are people talking)
 - ()() Customer can visit repositories to get metrics
@@ -28,5 +29,5 @@
 - ()() Customer can find and "rate" project similarity
 - ()() Customer can UI system to display metrics in different ways
 
-# System Requirements
+### System Requirements
 - Need massive database system
