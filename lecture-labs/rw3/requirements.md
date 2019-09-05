@@ -1,5 +1,5 @@
 ## Brainstorm
-- Software system that analyzes open-source software metrics based on
+- Software system that analyzes open-source software metrics reflect
     - How well collaboration is working on project
     - Health of the project for customers and streamlining business/engineer communication
 
@@ -16,9 +16,9 @@
         - System needs multiple user endpoints (API) to access specific metrics for what is important to respective roles
     - Users need version control implemented to track timestamps of commits, issues, pull requests, etc.
 
-- things to track
-    - rate of commits
-    - volume of commits
-    - time between
-    - amount of people working on branches
-    - track code re-use
+- Metrics are based on
+    - How often commits are made
+    - Volume of commits
+    - Time elapsed between commits
+    - Number of people working on branches
+    - Tracking code reuse in other projects
