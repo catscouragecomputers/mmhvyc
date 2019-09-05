@@ -10,18 +10,18 @@
 - (1)(2) Investors need a UI to visualize data.
 - (2)(4) Developers need access to a database to store metrics data.
 - Users:
-    - (3)() Should be able to implement the API into any part of the system
-    - ()() Better visualizations of metrics
-    - ()() System needs multiple user endpoints (API) to access specific metrics for their respective roles
-    - ()() Users need version control implemented to track timestamps of commits, issues, pull requests, etc.
+    - (3)(4) Should be able to implement the API into any part of the system
+    - (1)(2) Would like better visualizations of metrics
+    - (3)(1) System needs multiple user endpoints (API) to access specific metrics for their respective roles
+    - (1)(1) Users need version control implemented to track timestamps of commits, issues, pull requests, etc.
     
 ### Functional Requirements
-- ()() Customer can monitor commits/pulls/forks over time, average size of commits, etc
+- ()() Customer can monitor commits/pulls/forks over time, average size of commits, etc.
 - ()() Customer can monitor developer interaction (how often are people talking)
 - ()() Customer can visit repositories to get metrics
 - ()() Customer can sort projects by comparing metrics to successfuly projects
 - ()() Customer can find and "rate" project similarity
-- ()() Customer can UI system to display metrics in different ways
+- ()() Customer have a UI system to display metrics in different ways
 
 ### System Requirements
 - System needs a massive database system for developers.
