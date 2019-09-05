@@ -6,9 +6,9 @@
 ### Requirements
 (Practicality)(Priority)
 - (1)(2) Metrics should be tracked with automated updates.
-- (1)(3) Notifications should be relayed to people working on the project.
-- ()() Investors need a UI to visualize data.
-- ()() Developers need access to a database to store metrics data.
+- (3)(3) Notifications should be relayed to people working on the project.
+- (1)(2) Investors need a UI to visualize data.
+- (2)(4) Developers need access to a database to store metrics data.
 - Users:
     - ()() Should be able to implement the API into any part of the system
     - ()() Better visualizations of metrics
@@ -24,9 +24,9 @@
 - ()() Customer can UI system to display metrics in different ways
 
 ### System Requirements
-- Need massive database system
+- System needs a massive database system for developers.
 
-- Metrics are based on:
+Metrics are based on:
     - How often commits are made
     - Volume of commits
     - Time elapsed between commits
