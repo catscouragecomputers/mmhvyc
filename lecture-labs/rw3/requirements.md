@@ -1,4 +1,4 @@
-## Brainstorm
+## Brainstorming
 - Software system that analyzes open-source software metrics reflect:
     - How well collaboration is working on project
     - Health of the project for customers and streamlining business/engineer communication
@@ -16,12 +16,12 @@
     - (1)(1) Users need version control implemented to track timestamps of commits, issues, pull requests, etc.
     
 ### Functional Requirements
-- ()() Customer can monitor commits/pulls/forks over time, average size of commits, etc.
-- ()() Customer can monitor developer interaction (how often are people talking)
-- ()() Customer can visit repositories to get metrics
-- ()() Customer can sort projects by comparing metrics to successfuly projects
-- ()() Customer can find and "rate" project similarity
-- ()() Customer have a UI system to display metrics in different ways
+- (1)(1) Customer can monitor commits/pulls/forks over time, average size of commits, etc.
+- (2)(1) Customer can monitor developer interaction (how often are people talking)
+- (1)(1) Customer can visit repositories to get metrics
+- (3)(1) Customer can sort projects by comparing metrics to successful projects
+- ()(1) Customer can find and "rate" project similarity
+- ()(1) Customer have a UI system to display metrics in different ways
 
 ### System Requirements
 - System needs a massive database system for developers.
