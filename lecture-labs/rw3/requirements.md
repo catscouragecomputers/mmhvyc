@@ -7,9 +7,9 @@
 - The metrics should be tracked with automated updates.
 - Notifications should be relayed to people working on the project.
 - Investors
-    - Investors need a UI to see data visualized simply
+    - Investors need a UI to visualize data
 - Developers
-    - Devs would need access to a database to store metrics data
+    - Developrs would need access to a database to store metrics data
 - Users
     - Users should be able to implement the API into any part of the system
     - Users want better visualizations of metrics
