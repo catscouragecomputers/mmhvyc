@@ -19,9 +19,9 @@
 - (1)(1) Customer can monitor commits/pulls/forks over time, average size of commits, etc.
 - (2)(1) Customer can monitor developer interaction (how often are people talking)
 - (1)(1) Customer can visit repositories to get metrics
-- (3)(1) Customer can sort projects by comparing metrics to successful projects
-- ()(1) Customer can find and "rate" project similarity
-- ()(1) Customer have a UI system to display metrics in different ways
+- (4)(1) Customer can sort projects by comparing metrics to successful projects
+- (4)(1) Customer can find and "rate" project similarity
+- (2)(1) Customer have a UI system to display metrics in different ways
 
 ### System Requirements
 - System needs a massive database system for developers.
