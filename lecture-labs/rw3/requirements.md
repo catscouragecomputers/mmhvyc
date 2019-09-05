@@ -10,7 +10,7 @@
 - (1)(2) Investors need a UI to visualize data.
 - (2)(4) Developers need access to a database to store metrics data.
 - Users:
-    - ()() Should be able to implement the API into any part of the system
+    - (3)() Should be able to implement the API into any part of the system
     - ()() Better visualizations of metrics
     - ()() System needs multiple user endpoints (API) to access specific metrics for their respective roles
     - ()() Users need version control implemented to track timestamps of commits, issues, pull requests, etc.
@@ -27,8 +27,8 @@
 - System needs a massive database system for developers.
 
 Metrics are based on:
-    - How often commits are made
-    - Volume of commits
-    - Time elapsed between commits
-    - Number of people working on branches
-    - Tracking code reuse in other projects
+- How often commits are made
+- Volume of commits
+- Time elapsed between commits
+- Number of people working on branches
+- Tracking code reuse in other projects
