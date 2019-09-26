@@ -1,3 +1,3 @@
--Assign tasks based on ability
--Deadlines for tasks
--Method of communication
+*Assign tasks based on ability
+*Deadlines for tasks
+*Method of communication
