@@ -4,3 +4,4 @@
 * Deadlines for tasks
 * Method of communication
 * Accountability
+* Identify strengths and interests
