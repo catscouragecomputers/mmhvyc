@@ -1,5 +1,7 @@
 # Projects
-commits all time  
+top committers - pie chart  
+pull request acceptance group by month - bar graph
+code changes lines by month - bar graph
 
 [  
 {  
