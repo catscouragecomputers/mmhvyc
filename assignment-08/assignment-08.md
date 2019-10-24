@@ -1,5 +1,6 @@
 # Projects
-top committers by repo - pie chart  
+top committers by repo - pie chart
+
 pull request acceptance by group by month - bar graph  
 code changes lines by month - line graph
 
